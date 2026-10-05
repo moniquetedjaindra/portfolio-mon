@@ -1,0 +1,9 @@
+My Portfolio Website
+
+This website is a personal portfolio created to showcase my journey, skills, and works as a Visual Communication Design student. Through this portfolio, I aim to present not only the final outcomes of my projects, but also my creativity, interests, and approach to design. Each project represents a different experience and learning process that has helped me develop both my technical and conceptual skills as a designer.
+
+The website is designed with a simple, playful, and visually engaging style that reflects my personal identity. The use of soft colors, rounded elements, and interactive features creates a friendly atmosphere while allowing the projects to remain the main focus. I wanted the website to feel personal rather than overly formal, so visitors can get a better understanding of who I am as a designer.
+
+The portfolio contains several sections, including Home, About Me, Portfolio, Playground, and Contact. The Home section introduces visitors to my identity and gives an overview of my creative work. The About Me section provides information about my background, interests, and personal approach to design. Meanwhile, the Portfolio section presents selected projects from different areas of Visual Communication Design, such as branding, packaging, illustration, and UI/UX design. The Playground section is created as a space for smaller experiments and creative explorations, while the Contact section allows visitors to connect with me for future opportunities and collaborations.
+
+Through this website, I hope to communicate my personality as a designer who enjoys exploring different ideas and transforming them into meaningful visual experiences. More than simply displaying my work, this portfolio represents my growth, creativity, and continuous learning as I develop my skills and discover my own direction in the design field.
